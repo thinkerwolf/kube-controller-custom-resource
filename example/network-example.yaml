@@ -1,4 +1,4 @@
-apiVersion: samplecrd.thinkerwolf.com/v1
+apiVersion: samplecrd.thinkerwolf.com/v1alpha1
 kind: Network
 metadata:
   name: example-network
