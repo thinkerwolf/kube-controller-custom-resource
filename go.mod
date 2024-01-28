@@ -1,4 +1,4 @@
-module github.com/thinkerwolf/sample-controller
+module github.com/thinkerwolf/kube-controller-custom-resource
 
 go 1.21.6
 

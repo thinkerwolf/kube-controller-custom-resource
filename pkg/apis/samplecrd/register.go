@@ -1,4 +1,4 @@
-package network
+package samplecrd
 
 const (
 	GroupName = "samplecrd.thinkerwolf.com"
